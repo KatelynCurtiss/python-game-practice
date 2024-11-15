@@ -7,3 +7,9 @@ def ask_questions(question, answer):
     if user_answer.lower() == answer.lower():
         return True
     
+
+    def run_quiz():
+        questions = [
+            ("What is the capital of Tokyo?", ""),
+            ( " What is the ")
+        ]
